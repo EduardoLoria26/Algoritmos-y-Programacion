@@ -3,7 +3,7 @@
 
 // Escribir un algoritmo que evalúe una expresión matemática (A+7*C)/(B+2-A)+2*B
 Algoritmo SEC10
-	Definir A, B, C Como Entero;
+	Definir A, B, C Como Reales;
 	Definir S Como Reales;
 	
 	Escribir "Introduzca el valor de A: ";
