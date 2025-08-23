@@ -13,5 +13,5 @@ Algoritmo SEC02
 	// Se le asigna a "C" el resultado de la suma de "A" y "B"
 	C <- A + B;
 	// Muestra el valor de "C" en la consola
-	Escribir C;
+	Escribir "La suma es: ", C;
 FinAlgoritmo
