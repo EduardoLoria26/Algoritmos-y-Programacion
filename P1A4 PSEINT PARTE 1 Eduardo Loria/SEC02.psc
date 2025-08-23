@@ -1,7 +1,7 @@
 // 00597451 Eduardo Adrian Loria Garcia
 // Ingeniería en Animación Digital
 
-// Escribir un algoritmo que sume dos números: A = Introduzca un número entero  B = Introduzca otro número entero
+// Escribir un algoritmo que sume dos números cuyos valores son ingresados por el teclado
 Algoritmo SEC02
 	Definir A, B, C Como Enteros;
 	
