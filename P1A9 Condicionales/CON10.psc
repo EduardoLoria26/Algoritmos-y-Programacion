@@ -12,7 +12,7 @@ Algoritmo CON10
 	Escribir "Introduzca el sexo de la persona (mujer o varón)";
 	Leer sexo;
 	
-	Si edad > 18 y sexo = "varón" Entonces 
+	Si edad > 18 y sexo == "varón" Entonces 
 		Escribir "La persona puede ingresar al espectáculo";
 	Sino 
 		Escribir "La persona no puede ingresar al espectáculo";
